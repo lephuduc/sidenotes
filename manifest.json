@@ -1,0 +1,10 @@
+{
+	"id": "side-notes-shortcodes",
+	"name": "Side-Notes Shortcodes",
+	"version": "0.6.0",
+	"minAppVersion": "1.10.0",
+	"description": "Numbered sidenotes and margin notes written as {{< note >}} and {{< side >}} shortcodes. Based on Side-Notes by cparsell.",
+	"author": "lephuduc",
+	"authorUrl": "https://github.com/lephuduc",
+	"isDesktopOnly": false
+}
